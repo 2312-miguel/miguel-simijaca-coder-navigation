@@ -4,9 +4,9 @@
     "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/expo-rock.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/expo-rock.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
